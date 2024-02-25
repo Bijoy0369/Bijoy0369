@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1>
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
-<img align="right" alt="coding" width="400" src=" https://images.app.goo.gl/Mbctq5rfw44ee4eS8">
+<img align="right" alt="coding" width="400" src="   content://0@com.android.chrome.FileProvider/images/screenshot/17088421483971346949745.gif![image](https://github.com/Bijoy0369/Bijoy0369/assets/156492281/7fc2d436-fa2e-4988-b945-b950b29ca151)
+ ">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy0369&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy0369" /> </p>
 
