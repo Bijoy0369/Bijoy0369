@@ -3,7 +3,7 @@
 
 <img align="right" alt="coding" width="400" src="">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy0369&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy0369" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy0369&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy0369"/> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bijoy0369" alt="bijoy0369" /></a> </p>
 
