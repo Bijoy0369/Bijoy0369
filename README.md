@@ -1,8 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1>
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
-<img align="right" alt="coding" width="400" src="   content://0@com.android.chrome.FileProvider/images/screenshot/17088421483971346949745.gif![image](https://github.com/Bijoy0369/Bijoy0369/assets/156492281/7fc2d436-fa2e-4988-b945-b950b29ca151)
- ">
+<img align="right" alt="coding" width="400" src="">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy0369&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy0369" /> </p>
 
@@ -12,7 +11,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/bijoy biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijoy biswas" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/bijoybiswas0369" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bijoy biswas" height="30" width="40" /></a>
 <a href="https://fb.com/bijoy biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="bijoy biswas" height="30" width="40" /></a>
 <a href="https://instagram.com/bijoy biswas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bijoy biswas" height="30" width="40" /></a>
 </p>
