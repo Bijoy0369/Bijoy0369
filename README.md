@@ -1,3 +1,6 @@
+
+<img align="right" alt="coding" width="200" src="[https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif](https://ak5.picdn.net/shutterstock/videos/16878475/thumb/9.jpg)">
+
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1>
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
