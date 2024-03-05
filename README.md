@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1>
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
-<img align="right" alt="coding" width="150" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
+<img align="center" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=bijoy0369&label=Profile%20views&color=0e75b6&style=flat" alt="bijoy0369"/> </p>
 
