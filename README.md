@@ -1,6 +1,7 @@
 
 
-<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="https://github.com/Bijoy0369/Bijoy0369/assets/156492281/270d5d24-be5b-40ad-a69b-7443a511b4ff">
+
+<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="https://github.com/Bijoy0369/Bijoy0369/assets/156492281/c604bacb-25bf-4383-ae8e-3ba30cf5ec7f">
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
