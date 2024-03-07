@@ -2,7 +2,8 @@
 
 
 
-<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="![Uploading 20240307_221514.png…]()
+<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="![20240307_221514](https://github.com/Bijoy0369/Bijoy0369/assets/156492281/3f3d7561-216d-4004-a6c2-33caf2dab950)
+
 ">
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
