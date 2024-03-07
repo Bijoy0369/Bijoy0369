@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="![Screenshot_7-3-2024_215356_www designevo com](https://github.com/Bijoy0369/Bijoy0369/assets/156492281/06be2386-0567-4ce7-9dd0-c389e0e5b56a)">
+<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="![Screenshot_7-3-2024_215356_www designevo com]">
 <h3 align="center">I'm BTech Student Artificial Intelligence and Data Science</h3>
 
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
