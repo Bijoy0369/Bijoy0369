@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="https://github.com/Bijoy0369/Bijoy0369/assets/156492281/bcb17bbb-786f-4463-8a75-2b735f5e74a5">
+<h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80" src="https://imagetolink.com/ib/XNWDyIDXDR">
 <h3 align="center">Coding</> Learning Technology For Future</h3>
 
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
