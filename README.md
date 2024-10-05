@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Bijoy Biswas</h1><img align="center" alt="coding" width="80"src="https://imagetolink.com/ib/XNWDyIDXDR.jpg">
-<h3 align="center">Coding</> Learning Technology For Future</h3>
+<h3 align="center">Coding</> Learning Technology My Art <_/></h3>
 
 <img align="right" alt="coding" width="200" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 <img align="center" alt="coding" width="200" src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/coding-freak.gif">
